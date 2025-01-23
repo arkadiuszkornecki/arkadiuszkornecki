@@ -59,7 +59,7 @@
 <details open>
   <summary>Top repositories</summary>
   <div align="center">
-  <a href="" target="_blank">
+  <a href="https://github.com/arkadiuszkornecki/Temperature_Converter_PYTHON_GUI" target="_blank">
     
   ![](https://github-readme-stats.vercel.app/api/pin/?username=arkadiuszkornecki&repo=Temperature_Converter_PYTHON_GUI&cache_seconds=86400&theme=cobalt2)
   </a>
