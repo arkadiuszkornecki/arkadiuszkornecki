@@ -3,7 +3,7 @@
 <div align="center">
   <p>
     
-  ![](https://komarev.com/ghpvc/?username=arekloko12&color=blue)
+  ![](https://komarev.com/ghpvc/?username=arkadiuszkornecki&color=blue)
   ![Static Badge](https://img.shields.io/badge/Focus-Web%20Development-lightgreen)
 
   
@@ -16,11 +16,11 @@
   <p>I'm still learning Python. In the future I'm going to be back-end developer.</p>
 </details>
 <p align="center">
-  <a href="https://github.com/arekloko12?tab=followers">
-    <img alt="folowers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/arekloko12?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="https://github.com/arkadiuszkornecki?tab=followers">
+    <img alt="folowers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/arkadiuszkornecki?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://github.com/arekloko12?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on Github" src="https://custom-icon-badges.demolab.com/github/stars/arekloko12?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <a href="https://github.com/arkadiuszkornecki?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on Github" src="https://custom-icon-badges.demolab.com/github/stars/arkadiuszkornecki?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </p>
 <hr>
@@ -50,7 +50,7 @@
   
   <br /><br />
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arekloko12&theme=cobalt2&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkadiuszkornecki&theme=cobalt2&layout=compact)
 
 </details>
 
@@ -60,12 +60,19 @@
   <summary>Top repositories</summary>
   <div align="center">
   <p>
-      
-  ![](https://github-readme-stats.vercel.app/api/pin/?username=arekloko12&repo=Temperature_Converter_PYTHON_GUI&cache_seconds=86400&theme=cobalt2)
-  ![](https://github-readme-stats.vercel.app/api/pin/?username=arekloko12&repo=Simple-Calculator-GUI&cache_seconds=86400&theme=cobalt2)
-  ![](https://github-readme-stats.vercel.app/api/pin/?username=arekloko12&repo=4-numbers-sort-Csharp-Console&cache_seconds=86400&theme=cobalt2)
-  ![](https://github-readme-stats.vercel.app/api/pin/?username=arekloko12&repo=arekloko12.github.io&cache_seconds=86400&theme=cobalt2)
-      
+  <a href="https://github.com/arkadiuszkornecki/Temperature_Converter_PYTHON_GUI" target="_blank">
+    
+  ![](https://github-readme-stats.vercel.app/api/pin/?username=arkadiuszkornecki&repo=Temperature_Converter_PYTHON_GUI&cache_seconds=86400&theme=cobalt2)
+  </a>
+  <a href="https://github.com/arkadiuszkornecki/Simple-Calculator-GUI" target="_blank">
+  ![](https://github-readme-stats.vercel.app/api/pin/?username=arkadiuszkornecki&repo=Simple-Calculator-GUI&cache_seconds=86400&theme=cobalt2)
+  </a>
+  <a href="https://github.com/arkadiuszkornecki/4-numbers-sort-Csharp-Console" target="_blank">
+  ![](https://github-readme-stats.vercel.app/api/pin/?username=arkadiuszkornecki&repo=4-numbers-sort-Csharp-Console&cache_seconds=86400&theme=cobalt2)
+  </a>
+  <a href="https://github.com/arkadiuszkornecki/arkadiuszkornecki.github.io" target="_blank">
+  ![](https://github-readme-stats.vercel.app/api/pin/?username=arkadiuszkornecki&repo=arkadiuszkornecki.github.io&cache_seconds=86400&theme=cobalt2)
+  </a>
   </p>
   </div>
 </details>
@@ -76,7 +83,7 @@
   <div align="center">
     <p>
       
-  ![Arekloko's GitHub stats](https://github-readme-stats.vercel.app/api?username=arekloko12&theme=cobalt2&show_icons=true)
+  ![Arkadiusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkadiuszkornecki&theme=cobalt2&show_icons=true)
     </p>
   </div>
 
@@ -86,6 +93,6 @@
 <details open>
 <summary>Github Contribution Chart</summary>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=arekloko12&theme=rogue&custom_title=Contribution%20Graph&title_color=FFC600&bg_color=193549&color=0088FF&line=FFC600&point=0088FF)
+![](https://github-readme-activity-graph.vercel.app/graph?username=arkadiuszkornecki&theme=rogue&custom_title=Contribution%20Graph&title_color=FFC600&bg_color=193549&color=0088FF&line=FFC600&point=0088FF)
 
 </details
