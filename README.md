@@ -61,16 +61,24 @@
   <div align="center">
   <p>
   <a href="https://github.com/arkadiuszkornecki/Temperature_Converter_PYTHON_GUI" target="_blank">
+    
   ![](https://github-readme-stats.vercel.app/api/pin/?username=arkadiuszkornecki&repo=Temperature_Converter_PYTHON_GUI&cache_seconds=86400&theme=cobalt2)
+  
   </a>
   <a href="https://github.com/arkadiuszkornecki/Simple-Calculator-GUI" target="_blank">
+    
   ![](https://github-readme-stats.vercel.app/api/pin/?username=arkadiuszkornecki&repo=Simple-Calculator-GUI&cache_seconds=86400&theme=cobalt2)
+  
   </a>
   <a href="https://github.com/arkadiuszkornecki/4-numbers-sort-Csharp-Console" target="_blank">
+    
   ![](https://github-readme-stats.vercel.app/api/pin/?username=arkadiuszkornecki&repo=4-numbers-sort-Csharp-Console&cache_seconds=86400&theme=cobalt2)
+  
   </a>
   <a href="https://github.com/arkadiuszkornecki/arkadiuszkornecki.github.io" target="_blank">
+    
   ![](https://github-readme-stats.vercel.app/api/pin/?username=arkadiuszkornecki&repo=arkadiuszkornecki.github.io&cache_seconds=86400&theme=cobalt2)
+  
   </a>
   </p>
   </div>
