@@ -81,7 +81,7 @@
   <div align="center">
     <p>
       
-  ![Arkadiusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkadiuszkornecki&theme=cobalt2&show_icons=true)
+  ![Arkadiusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkadiuszkornecki&theme=cobalt2&show_icons=true&custom_title=Arek's%20Github%20Stats)
     </p>
   </div>
 
