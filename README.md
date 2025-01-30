@@ -66,8 +66,8 @@
   <a href="https://github.com/arkadiuszkornecki/Simple-Calculator-GUI" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkadiuszkornecki&repo=Simple-Calculator-GUI&cache_seconds=86400&theme=cobalt2" />
   </a>
-  <a href="https://github.com/arkadiuszkornecki/4-numbers-sort-Csharp-Console" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkadiuszkornecki&repo=4-numbers-sort-Csharp-Console&cache_seconds=86400&theme=cobalt2" />
+  <a href="https://github.com/arkadiuszkornecki/Simple_Notepad_GUI" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkadiuszkornecki&repo=Simple_Notepad_GUI&cache_seconds=86400&theme=cobalt2" />
   </a>
   <a href="https://github.com/arkadiuszkornecki/arkadiuszkornecki.github.io" target="_blank">
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=arkadiuszkornecki&repo=arkadiuszkornecki.github.io&cache_seconds=86400&theme=cobalt2" />
