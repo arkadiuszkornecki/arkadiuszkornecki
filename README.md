@@ -41,7 +41,7 @@
   <img align="center" alt="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" alt="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="center" alt="Django" width="30px" style="padding-right: 10px;" src="https://www.svgrepo.com/show/353657/django-icon.svg" />
-  <img align="center" alt="Flask" width="30px" style="padding-right: 10px;" src="https://cdn.discordapp.com/attachments/1332009247013077176/1332009532133478400/pngfind.com-flask-png-1286693.png?ex=6793b20c&is=6792608c&hm=33cd7fc074cca99f877ed36d1abeab8381e108e887d8d0b5fe9e8c0251656862&" />
+  <img align="center" alt="Flask" width="30px" style="padding-right: 10px;" src="https://media.discordapp.net/attachments/1332009247013077176/1332009532133478400/pngfind.com-flask-png-1286693.png?ex=67a57e4c&is=67a42ccc&hm=43c58c206f17ab3df90f48275a1a50057cf0a3a7eae9993fd3a81a8d1489593e&=&format=webp&quality=lossless&width=840&height=840" />
 
   <h3 align="center">🧰Tools</h3>
   <img align="center" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
