@@ -25,7 +25,7 @@
 </p>
 <hr>
 
-<details open align="center">
+<details open>
   <summary align="left">Skills & Tools</summary>
   <h3 align="center">⚙️OS</h3>
 
