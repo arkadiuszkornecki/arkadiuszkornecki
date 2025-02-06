@@ -27,6 +27,7 @@
 
 <details open align="center">
   <summary align="left">Skills & Tools</summary>
+  <p align="center">
   <h3 align="center">⚙️OS</h3>
   <img alt="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <!--   | 
@@ -51,7 +52,7 @@
   <br /><br />
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkadiuszkornecki&theme=cobalt2&layout=compact)
-
+  </p>
 </details>
 
 <br />
