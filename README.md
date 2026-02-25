@@ -4,7 +4,7 @@
   <p>
     
   ![](https://komarev.com/ghpvc/?username=arkadiuszkornecki&color=blue)
-  ![Static Badge](https://img.shields.io/badge/Focus-Web%20Development-lightgreen)
+  ![Static Badge](https://img.shields.io/badge/Focus-Backend%20Development-lightgreen)
 
   
   </p>
